@@ -1,0 +1,22 @@
+{
+  "name": "com.open-vault.database-connector",
+  "version": "0.0.1",
+  "displayName": "Database Connector",
+  "description": "An implementation of a database connector using sqlite",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {},
+  "keywords": [
+    "service-locator",
+    "singleton"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabahulk/com.open-vault.service-locator.git"
+  },
+  "author": {
+    "name": "Gabriel Fazzio de Paula",
+    "email": "gabrielfpaula@gmail.com",
+    "url": "https://github.com/gabahulk"
+  }
+}
